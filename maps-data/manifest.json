@@ -1,0 +1,184 @@
+{
+ "base": "https://raw.githubusercontent.com/copperbookworm/Yehorivka-MapData/main/maps-data/",
+ "builtin": {
+  "albasrah": "b85c3b38d302",
+  "anvil": "57c3175572bf",
+  "blackcoast": "9655671254a1",
+  "chora": "d3d43aeaf046",
+  "fallujah": "e368da217139",
+  "foolsroad": "b6713923158e",
+  "goosebay": "dc8742bcbfa5",
+  "gorodok": "8ad6d8dd3f1a",
+  "harju": "165cba8a2000",
+  "jensen": "1d1bb9eee19f",
+  "kamdesh": "c1475dd884bd",
+  "kohat": "e56e02de1137",
+  "kokan": "7aef86487cf5",
+  "lashkar": "2d6d79336fd6",
+  "logar": "74079b0f6a6c",
+  "manicouagan": "abce3bf9fecb",
+  "mestia": "1d003acdff79",
+  "mutaha": "35747c9ace41",
+  "narva": "82246a469449",
+  "pacific": "5520d4d4a8f3",
+  "sanxian": "ae9ba59acfc8",
+  "skorpo": "b6b805cab2be",
+  "sumari": "114f13492fd7",
+  "tallil": "261a3e77522f",
+  "yehorivka": "8b23709cd41c"
+ },
+ "maps": {
+  "albasrah": {
+   "name": "Al Basrah",
+   "sha256": "1accc680de2aaaa8c6d532d7b7a3f2973bd512c1002029f4a961df42972af1f6",
+   "size": 3167683,
+   "v": "b85c3b38d302"
+  },
+  "anvil": {
+   "name": "Anvil",
+   "sha256": "d54d28dafbe5383995a53856c9d9914304b1e00f5650d012638fcb03eeed3a56",
+   "size": 3296494,
+   "v": "57c3175572bf"
+  },
+  "blackcoast": {
+   "name": "Black Coast",
+   "sha256": "32c1f8fbcc949058e308295f8b935719a6f0bb030de9eedd389fc7bcc86b5b1a",
+   "size": 2745207,
+   "v": "9655671254a1"
+  },
+  "chora": {
+   "name": "Chora",
+   "sha256": "58d66bca75beeb2c4e3e029c6d52a63358e7350221760e85d2ff693dfe252a2f",
+   "size": 2187313,
+   "v": "d3d43aeaf046"
+  },
+  "fallujah": {
+   "name": "Fallujah",
+   "sha256": "cd64306e04e6792bd540566e40b7b80e739ebbabf9bfd3c10c0d8a48023a3fce",
+   "size": 2415906,
+   "v": "e368da217139"
+  },
+  "foolsroad": {
+   "name": "Fools Road",
+   "sha256": "a604d43661e3d5eea30a441c3928766f3754101f651f76414499730a69e6eb61",
+   "size": 3352932,
+   "v": "b6713923158e"
+  },
+  "goosebay": {
+   "name": "Goose Bay",
+   "sha256": "e60c63a3a527d8baa777718c924a0c9e49a1cb296349481d51f5bb535bf4475e",
+   "size": 2936056,
+   "v": "dc8742bcbfa5"
+  },
+  "gorodok": {
+   "name": "Gorodok",
+   "sha256": "796bea0cb20388cdc955e0638ff5f5ce93515ea803eaff56e888887162411290",
+   "size": 3031888,
+   "v": "8ad6d8dd3f1a"
+  },
+  "harju": {
+   "name": "Harju",
+   "sha256": "1fed7a014b3a7c82482dd6c47bf21e77b78c70f9a953f2bcf356aef4ab47eacb",
+   "size": 2864641,
+   "v": "165cba8a2000"
+  },
+  "jensen": {
+   "name": "Jensen",
+   "sha256": "9eb3139246483c15d56d8d7a4239069f66fc4b60d721dc83dab1c32c65872b38",
+   "size": 1897373,
+   "v": "1d1bb9eee19f"
+  },
+  "kamdesh": {
+   "name": "Kamdesh",
+   "sha256": "56b5e4bdab24b46f9746d5980864b2e99832a785007350984370de330893d369",
+   "size": 3314233,
+   "v": "c1475dd884bd"
+  },
+  "kohat": {
+   "name": "Kohat",
+   "sha256": "d28a904f9bb56395e020a0c4e259433656880b6f406ba323ec1b7ff9dbb11918",
+   "size": 3032409,
+   "v": "e56e02de1137"
+  },
+  "kokan": {
+   "name": "Kokan",
+   "sha256": "3951c0d5fe166f2b72aeda5e7b8ec55c6b02aad2f4131d0d14dd05490646b192",
+   "size": 2130279,
+   "v": "7aef86487cf5"
+  },
+  "lashkar": {
+   "name": "Lashkar",
+   "sha256": "57e6c33fa390445253f9d6f8aeff01264f582e9ac698efd1080d0bd3d8d8fadf",
+   "size": 3715341,
+   "v": "2d6d79336fd6"
+  },
+  "logar": {
+   "name": "Logar",
+   "sha256": "57ce8d52971592375b80244a317bb13ed17564203a4340aadf5ad0d31d81cdd3",
+   "size": 2653761,
+   "v": "74079b0f6a6c"
+  },
+  "manicouagan": {
+   "name": "Manicouagan",
+   "sha256": "c457e20312ef428ab4ad316d2ff844968a9f56bcec57828caa287050394d1c7d",
+   "size": 3385148,
+   "v": "abce3bf9fecb"
+  },
+  "mestia": {
+   "name": "Mestia",
+   "sha256": "593c3f8830f98ef9db2d1964a08f45ebe9943065cf1d48e5a7d7ce27052a41c7",
+   "size": 2406154,
+   "v": "1d003acdff79"
+  },
+  "mutaha": {
+   "name": "Mutaha",
+   "sha256": "8e6883537e79a938c741f26d2ee2190f399e490a72cbb371a03e7a57f73a35d5",
+   "size": 2547059,
+   "v": "35747c9ace41"
+  },
+  "narva": {
+   "name": "Narva",
+   "sha256": "856ffc595e4ac9c514fe045b455e38633c42ace9245b9fb7062b0f0766e3d94b",
+   "size": 2562209,
+   "v": "82246a469449"
+  },
+  "pacific": {
+   "name": "Pacific",
+   "sha256": "163e6ddce1a2c53fe61d498c91094ece5773918ce72dcd42379ea15f6bee5775",
+   "size": 1638520,
+   "v": "5520d4d4a8f3"
+  },
+  "sanxian": {
+   "name": "Sanxian",
+   "sha256": "c7fce489383f8d3c38c8114122a8ccbc7ef969334cd6b49ddfe4032fe0256193",
+   "size": 1594770,
+   "v": "ae9ba59acfc8"
+  },
+  "skorpo": {
+   "name": "Skorpo",
+   "sha256": "478401881bb458d3faafe1c0846305b7da7fd6fb4af022d09c6588512dae539e",
+   "size": 1899106,
+   "v": "b6b805cab2be"
+  },
+  "sumari": {
+   "name": "Sumari",
+   "sha256": "f0293e1af629c58a9823347733fa3292d269fad73152015e3b66eddf3c5259a9",
+   "size": 1925470,
+   "v": "114f13492fd7"
+  },
+  "tallil": {
+   "name": "Tallil",
+   "sha256": "9bba5b9a990c340670a1c8c17fa548389c51a8d3b6da27fb643604ca06ebdf26",
+   "size": 2184219,
+   "v": "261a3e77522f"
+  },
+  "yehorivka": {
+   "name": "Yehorivka",
+   "sha256": "5dd934d389fb212d7e14f4b54cb5eab82046aadee7d7accaa81411ca6f9f92e8",
+   "size": 2843595,
+   "v": "8b23709cd41c"
+  }
+ },
+ "schema": 1,
+ "updated": "2026-10-27"
+}
